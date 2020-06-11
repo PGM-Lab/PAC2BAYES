@@ -16,7 +16,7 @@ The code is written in Python 3 and uses the following libraries:
 
 ## Reproduce experiments with real data sets (Figure 3)
 
-Execute the following python scrpits, which are grouped by algorithm and by task. Running each script you get back results for each data set and for each different method with the same parameter configuration used in the paper.   
+Execute the following python scrpits, which are grouped by algorithm and by task. Running each script you get back results for each data set and for each method used in the paper.   
 
 *  **PAC^2-Varitional** and **PAC^2_T-Variational** learning algorithms:
 
