@@ -56,17 +56,17 @@ Execute the following python scrpits, which are grouped by algorithm and by task
 
 Each of the figures with artificial data illustrating the algorithms can be reproduced using the following notebooks:
  
- * [First-order vs Second-order bounds](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/FirstOrdervsSeconOrderBounds.ipynb).
+ * [First-order vs Second-order bounds](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/FirstOrdervsSeconOrderBounds.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/FirstOrdervsSeconOrderBounds.ipynb)].
  
- * [Bayesian Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb).[[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)]
+ * [Bayesian Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)[[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)].
  
- * [PAC2-Variational Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb).[[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb)]
+ * [PAC2-Variational Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb)].
  
- * [PAC2-Variational - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-SinusoidalData-NeuralNetwork.ipynb).[[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-SinusoidalData-NeuralNetwork.ipynb)]
+ * [PAC2-Variational - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-SinusoidalData-NeuralNetwork.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-SinusoidalData-NeuralNetwork.ipynb)].
 
- * [PAC2-Ensemble - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb). [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb)]
+ * [PAC2-Ensemble - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb)].
 
- * [PAC2-Ensemble - MultiModal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb). [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb)]
+ * [PAC2-Ensemble - MultiModal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb)].
 
  
  
