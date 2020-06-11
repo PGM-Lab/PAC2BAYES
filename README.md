@@ -20,36 +20,36 @@ Execute the following python scrpits, which are grouped by algorithm and by task
 
 *  **PAC^2-Varitional** and **PAC^2_T-Variational** learning algorithms:
 
-    - Supervised classification task: [PAC2-Variational-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-Supervised.py).
+    - Supervised classification task: [PAC2-Variational-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Variational-Supervised.py).
         ```console
-        > python ./expRealDataSets/PAC2-Variational-Supervised.py
+        > python ./scripts/PAC2-Variational-Supervised.py
         ```
 
-    - Self-Supervised classification task with Normal likelihood: [PAC2-Variational-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-SelfSupervisedNormal.py).
+    - Self-Supervised classification task with Normal likelihood: [PAC2-Variational-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Variational-SelfSupervisedNormal.py).
         ```console
-        > python ./expRealDataSets/PAC2-Variational-SelfSupervisedNormal.py
+        > python ./scripts/PAC2-Variational-SelfSupervisedNormal.py
         ```
 
-    - Self-Supervised classification task with Binomial likelihood: [PAC2-Variational-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-SelfSupervisedBinomial.py).
+    - Self-Supervised classification task with Binomial likelihood: [PAC2-Variational-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Variational-SelfSupervisedBinomial.py).
         ```console
-        > python ./expRealDataSets/PAC2-Variational-SelfSupervisedBinomial.py
+        > python ./scripts/PAC2-Variational-SelfSupervisedBinomial.py
         ```
 
 *  **PAC^2-Ensemble** and **PAC^2_T-Ensemble** learning algorithms:
 
-    - Supervised classification task: [PAC2-Ensemble-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-Supervised.py).
+    - Supervised classification task: [PAC2-Ensemble-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Ensemble-Supervised.py).
         ```console
-        > python ./expRealDataSets/PAC2-Ensemble-Supervised.py
+        > python ./scripts/PAC2-Ensemble-Supervised.py
         ```
        
-    - Self-Supervised classification task with Normal likelihood: [PAC2-Ensemble-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-SelfSupervisedNormal.py).
+    - Self-Supervised classification task with Normal likelihood: [PAC2-Ensemble-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Ensemble-SelfSupervisedNormal.py).
         ```console
-        > python ./expRealDataSets/PAC2-Ensemble-SelfSupervisedNormal.py
+        > python ./scripts/PAC2-Ensemble-SelfSupervisedNormal.py
         ```
 
-    - Self-Supervised classification task with Binomial likelihood: [PAC2-Ensemble-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-SelfSupervisedBinomial.py).
+    - Self-Supervised classification task with Binomial likelihood: [PAC2-Ensemble-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/scripts/PAC2-Ensemble-SelfSupervisedBinomial.py).
         ```console
-        > python ./expRealDataSets/PAC2-Ensemble-SelfSupervisedBinomial.py
+        > python ./scripts/PAC2-Ensemble-SelfSupervisedBinomial.py
         ```
 
 ## Notebooks 
