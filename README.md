@@ -13,8 +13,17 @@ The code is written in Python 3 and uses the following libraries:
  * [Tensorflow-Probability v0.8.0](https://www.tensorflow.org/probability)
  * [Numpy v1.18.4](https://numpy.org/)   
 
+## Directory structure
 
-## Reproduce experiments with real data sets (Figure 3)
+This repository has the following directory structure
+ * *README*: This file.
+ * *scripts*: Folder containing the python scripts to reproduce the results of the empirical evaluation of the paper. More details below. 
+ * *results*: Foder containing the ouput of the python scripts included in the folder 'scritps'. 
+ * *noteboos*: Folder containing Jupyter notebooks where all the figures and analysis with artificial data sets can be reprodcued. More details below. 
+   
+
+
+## Reproduce experiments with real data sets
 
 Execute the following python scrpits, which are grouped by algorithm and by task. Running each script you get back results for each data set and for each method used in the paper.   
 
