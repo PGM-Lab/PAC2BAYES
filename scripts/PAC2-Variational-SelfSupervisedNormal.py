@@ -231,7 +231,7 @@ def PAC2VI(dataSource=tf.keras.datasets.fashion_mnist, NPixels=14, algorithm=0, 
 
 iter=100
 batch=100
-text_file = open("output.txt", "w")
+text_file = open("./results/output-PAC2-Variational-SelfSupervisedNormal.txt", "w")
 
 text_file.write(str(PAC2VI(dataSource= tf.keras.datasets.fashion_mnist, NPixels=28, algorithm=0, PARTICLES=1, batch_size=batch, num_epochs=iter, num_hidden_units= 20)) + "\n")
 text_file.flush()

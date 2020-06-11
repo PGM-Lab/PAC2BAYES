@@ -205,7 +205,7 @@ def PAC2Ensemble(dataSource=tf.keras.datasets.fashion_mnist, NPixels=28, algorit
 
 iter=100
 batch=100
-text_file = open("output.txt", "w")
+text_file = open("./results/output-PAC2-Ensemble-SelfSupervisedBinomial.txt", "w")
 
 text_file.write(str(PAC2Ensemble(dataSource= tf.keras.datasets.fashion_mnist, NPixels=28, algorithm=0, num_ensemble_models=1, batch_size=batch, num_epochs=iter, num_hidden_units= 20)) + "\n")
 text_file.flush()
