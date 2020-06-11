@@ -21,8 +21,19 @@ Execute the following python scrpits, which are grouped by algorithm and by task
 *  **PAC^2-Varitional** and **PAC^2_T-Variational** learning algorithms:
 
     - Supervised classification task: [PAC2-Variational-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-Supervised.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Variational-Supervised.py
+        ```
+
     - Self-Supervised classification task with Normal likelihood: [PAC2-Variational-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-SelfSupervisedNormal.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Variational-SelfSupervisedNormal.py
+        ```
+
     - Self-Supervised classification task with Binomial likelihood: [PAC2-Variational-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Variational-SelfSupervisedBinomial.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Variational-SelfSupervisedBinomial.py
+        ```
 
 *  **PAC^2-Ensemble** and **PAC^2_T-Ensemble** learning algorithms:
 
@@ -53,9 +64,9 @@ Each of the figures with artificial data illustrating the algorithms can be repr
  
  * [PAC2-Variational - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-SinusoidalData-NeuralNetwork.ipynb).
 
- * [PAC2-Ensemble - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb).
+ * [PAC2-Ensemble - Sinusoidal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb). [[Open in Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-SinusoidalData-NeuralNetwork.ipynb)]
 
- * [PAC2-Ensemble - MultiModal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb).
+ * [PAC2-Ensemble - MultiModal Data - Neural Network](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb). <a class="link-gray" href="http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Ensemble-MultiModalData-NeuralNetwork.ipynb">[Open in Google Colab]</a>
 
  
  
