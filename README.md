@@ -6,6 +6,13 @@ Masegosa, Andrés. R., Learning under Model Misspecification: Applications to Va
 and Ensemble methods. https://arxiv.org/abs/1912.08335
 
 
+## Dependencies
+
+The code is written in Python 3 and uses the following libraries:
+ * [Tensorflow v1.15.0](https://www.tensorflow.org/)
+ * [Tensorflow-Probability v0.8.0](https://www.tensorflow.org/probability)
+ * [Numpy v1.18.4](https://numpy.org/)   
+
 
 ## Reproduce experiments with real data sets (Figure 3)
 
@@ -20,9 +27,19 @@ Execute the following python scrpits, which are grouped by algorithm and by task
 *  **PAC^2-Ensemble** and **PAC^2_T-Ensemble** learning algorithms:
 
     - Supervised classification task: [PAC2-Ensemble-Supervised.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-Supervised.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Ensemble-Supervised.py
+        ```
+       
     - Self-Supervised classification task with Normal likelihood: [PAC2-Ensemble-SelfSupervisedNormal.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-SelfSupervisedNormal.py).
-    - Self-Supervised classification task with Binomial likelihood: [PAC2-Ensemble-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-SelfSupervisedBinomial.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Ensemble-SelfSupervisedNormal.py
+        ```
 
+    - Self-Supervised classification task with Binomial likelihood: [PAC2-Ensemble-SelfSupervisedBinomial.py](https://github.com/PGM-Lab/PAC2BAYES/blob/master/expRealDataSets/PAC2-Ensemble-SelfSupervisedBinomial.py).
+        ```console
+        > python ./expRealDataSets/PAC2-Ensemble-SelfSupervisedBinomial.py
+        ```
 
 ## Notebooks 
 
