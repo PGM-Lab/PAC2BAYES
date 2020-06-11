@@ -19,7 +19,7 @@ This repository has the following directory structure
  * *README*: This file.
  * *scripts*: Folder containing the python scripts to reproduce the results of the empirical evaluation of the paper. More details below. 
  * *results*: Foder containing the ouput of the python scripts included in the folder 'scritps'. 
- * *noteboos*: Folder containing Jupyter notebooks where all the figures and analysis with artificial data sets can be reprodcued. More details below. 
+ * *notebooks*: Folder containing Jupyter notebooks where all the figures and analysis with artificial data sets can be reprodcued. More details below. 
    
 
 
