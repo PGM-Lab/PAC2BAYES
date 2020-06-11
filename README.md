@@ -67,7 +67,7 @@ Each of the figures with artificial data illustrating the algorithms can be repr
  
  * [First-order vs Second-order bounds](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/FirstOrdervsSeconOrderBounds.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/FirstOrdervsSeconOrderBounds.ipynb)].
  
- * [Bayesian Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)[[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)].
+ * [Bayesian Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/Bayesian-LinearRegression.ipynb)].
  
  * [PAC2-Variational Linear Regression](https://github.com/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb) [[Open in Google Colab](http://colab.research.google.com/github/PGM-Lab/PAC2BAYES/blob/master/notebooks/PAC2-Variational-LinearRegression.ipynb)].
  
